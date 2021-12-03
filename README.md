@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on an awseome, bigger and useful project
 - 📫 How to reach me github (@Gregor-code)
+- I'm currently working on an image-editing tool, running inside the browser
 
 <!---
 Gregor-code/Gregor-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
