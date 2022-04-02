@@ -2,7 +2,6 @@
 - 👀 I’m interested in mathematics, physics and computer science
 - 🌱 I’m currently learning Java and Svelte
 - 💞️ I’m looking to collaborate on an awseome, big and useful project
-- 📫 How to reach me: Github (@Gregor-code), Reddit (https://www.reddit.com/user/BusyAssist5904)
 - I'm currently working on an image-editing tool, running inside the browser
 
 <!---
