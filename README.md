@@ -1,4 +1,4 @@
-#👋 Hi, I’m Gregor
+# 👋 Hi, I’m Gregor
 
 <!---
 Gregor-code/Gregor-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
